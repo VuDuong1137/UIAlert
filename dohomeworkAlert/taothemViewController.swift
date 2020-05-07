@@ -7,10 +7,10 @@
 //
 
 import UIKit
-var a = 10 
-var b = 100
-class taothemViewController: UIViewController {
 
+class taothemViewController: UIViewController {
+let View : uiView = {
+}
     override func viewDidLoad() {
         super.viewDidLoad()
 
