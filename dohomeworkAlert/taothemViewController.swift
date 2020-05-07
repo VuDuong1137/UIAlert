@@ -7,13 +7,12 @@
 //
 
 import UIKit
+class taothemViewController: UIViewController {
 let View: UIView = {
     let View = UIView()
     View.translatesAutoresizingMaskIntoConstraints = false
     return View
 }()
-class taothemViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
 
