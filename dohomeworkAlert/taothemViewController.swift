@@ -7,14 +7,17 @@
 //
 
 import UIKit
-var a = 10 
-var b = 100
+let View: UIView = {
+    let View = UIView()
+    View.translatesAutoresizingMaskIntoConstraints = false
+    return View
+}()
 class taothemViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-       view.backgroundcoller = .red
+       view.backgroundColor = .red
        
     }
     
