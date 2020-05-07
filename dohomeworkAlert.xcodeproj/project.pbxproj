@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2256D742463A1B900465ED3 /* taothemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2256D732463A1B900465ED3 /* taothemViewController.swift */; };
 		A2270E6A2459221F00C90339 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2270E692459221F00C90339 /* AppDelegate.swift */; };
 		A2270E6C2459221F00C90339 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2270E6B2459221F00C90339 /* SceneDelegate.swift */; };
 		A2270E6E2459221F00C90339 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2270E6D2459221F00C90339 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2256D732463A1B900465ED3 /* taothemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taothemViewController.swift; sourceTree = "<group>"; };
 		A2270E662459221F00C90339 /* dohomeworkAlert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dohomeworkAlert.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2270E692459221F00C90339 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2270E6B2459221F00C90339 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				A2270E692459221F00C90339 /* AppDelegate.swift */,
 				A2270E6B2459221F00C90339 /* SceneDelegate.swift */,
 				A2270E6D2459221F00C90339 /* ViewController.swift */,
+				A2256D732463A1B900465ED3 /* taothemViewController.swift */,
 				A2270E6F2459221F00C90339 /* Main.storyboard */,
 				A2270E722459222300C90339 /* Assets.xcassets */,
 				A2270E742459222300C90339 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				A2270E6E2459221F00C90339 /* ViewController.swift in Sources */,
 				A2270E6A2459221F00C90339 /* AppDelegate.swift in Sources */,
 				A2270E6C2459221F00C90339 /* SceneDelegate.swift in Sources */,
+				A2256D742463A1B900465ED3 /* taothemViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
